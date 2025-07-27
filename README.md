@@ -1,6 +1,6 @@
 
 ### Algorithm for how the walking motion will be executed in the humanoid robot
-### This algorithm is based on the Maquto Robot model - one of the Simplest Walking Robots.
+#### This algorithm is based on the Maquto Robot model - one of the Simplest Walking Robots.
 
 
 This model is based on:
