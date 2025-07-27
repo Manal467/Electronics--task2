@@ -1,7 +1,24 @@
 
 ### Algorithm for how the walking motion will be executed in the humanoid robot
+### This algorithm is based on the Maquto Robot model - one of the Simplest Walking Robots.
 
-<img src="https://github.com/user-attachments/assets/7eca663d-638e-4ae1-8ae0-2e32fe40c678">
+
+This model is based on:
+
+- A simple mechanical design:
+
+   - Only two rigid bodies connected to a single motor.
+
+   - The Mugatu walker is self-adjusting and is characterized by Open-loop Stability.
+
+- Advanced locomotor capabilities:
+
+   - Ability to stop and go from a standing position.
+
+   - Directional control (left/right) by adjusting input parameters
+
+### <img src="https://github.com/user-attachments/assets/9905b5d7-d30d-462c-9d00-8ab634ff71ca">
+
 
 **1. Robot Initialization:**
 
